@@ -3,25 +3,40 @@
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Archivo|Bowlby+One+SC" rel="stylesheet">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="icon" type="image/icon" href="assets/logo.png" />
     <title>Star Wars</title>
   </head>
   <body>
     <section class="container">
-      <h1 class="red-text" >Swapi</h1>
-      <h3>Conoce más sobre las pelis de Star Wars</h3>
+      <div class=" div-logo center">
+       <img id="logo" src="assets/logo.png" alt="">
+      </div>
+      <h3>Conoce más sobre las pelis de Star Wars con Swapi!</h3>
+      
+      <div class="row col s12"  id="films"></div>
 
-        <div class="row"  id="films">
-          <div id="modal1" class="modal">
-          <div class="modal-content">
-            <h4 id="capture">captureRate</h4>
-            <p id="habitat">habitat</p>
-            <p id="color">color</p>
-          </div>
-        </div>
-
-        </div>
+      
 
     </section>
+
+
+    <div id="modal1" class="modal">
+      <div class="modal-content">
+        <h4 id="name"></h4>
+        <p id="height"></p>
+        <p id="hair-color"></p>
+        <p id="mass"></p>
+        <p id="skin-color"></p>
+        <img id="picture" src="" alt="">
+      </div>
+      <div class="modal-footer">
+        <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
+      </div>
+    </div>
+
+
     <script
     src="https://code.jquery.com/jquery-3.3.1.min.js"
     integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="

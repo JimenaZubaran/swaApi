@@ -1,0 +1,15 @@
+h1, h3 {
+    font-family: 'Bowlby One SC', cursive;
+}
+
+.card-title{
+    font-family: 'Archivo', sans-serif;
+}
+
+.div-logo{
+    margin: 5%;
+}
+#logo {
+width: 30%;
+height: 20%;
+}
