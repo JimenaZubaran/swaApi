@@ -1,5 +1,10 @@
+body{
+background-image:url("../assets/back.jpg");
+}
+
 h1, h3 {
     font-family: 'Bowlby One SC', cursive;
+    color: white;
 }
 
 .card-title{

@@ -16,10 +16,23 @@ function allFilms(data){
   let template = ` `;
   let listCharacters = ` `;
   //console.log(films);
-  films.forEach(function(film){
+  films.forEach(function(film, index){
     let title = film.title;
     let episode = film.episode_id;
     let characters = film.characters;
+
+    let arrayMovies = [
+      './assets/1.jpg',
+      './assets/2.jpg',
+      './assets/3.png',
+      './assets/4.png',
+      './assets/5.jpg',
+      './assets/6.jpg',
+      './assets/7.jpg'
+    ]
+
+    let films = arrayMovies[index];
+    console.log(film);
     //charactersRequest(characters);
 
     //forEach anidado
@@ -35,10 +48,11 @@ function allFilms(data){
     template +=
     `<div class="row">
         <div class="col s12 m12">
-          <div class="col s12 card blue-grey darken-1">
-            <div class="col s12 card-content white-text">
+          <div class="col s12  m12 card blue-grey darken-1">
+            <div class="col s12  m12 card-content white-text">
               <span class="card-title"><strong>Título de la película:</strong>
               ${title}</span>
+              <img src="${films}" class= "col s12 m12">
               <p><strong>Número de episodio: </strong>
               ${episode}</p>
               <ul id"characters"><strong>Conoce a los personajes haciendo click sobre los links: </strong>${listCharacters}</ul>
