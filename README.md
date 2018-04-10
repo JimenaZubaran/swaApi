@@ -14,3 +14,7 @@ Vista previa
 Modal con información del personaje
 ```
 ![info](./assets/info.PNG)
+
+### Proyecto desarrollado para: 
+
+Laboratoria
