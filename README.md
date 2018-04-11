@@ -18,7 +18,7 @@ Laboratoria
 ```
 Vista previa
 ```
-![vista](./assets/vista-previa.PNG)
+![swapi](https://user-images.githubusercontent.com/32856416/38595114-6246ad00-3d0f-11e8-9991-943aa605513a.PNG)
 
 
 ```
@@ -26,4 +26,3 @@ Modal con información del personaje
 ```
 ![info](./assets/info.PNG)
 
-![swapi](https://user-images.githubusercontent.com/32856416/38595114-6246ad00-3d0f-11e8-9991-943aa605513a.PNG)
