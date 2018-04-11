@@ -4,6 +4,14 @@ Swapi es la Api de Star Wars que te proporciona data sobre los planetas, naves e
 
 En este proyecto por medio de una petición fetch se accede a las 7 peliculas con sus personajes. Con una segunda petición se obtiene la información  de los personajes considerando: height, hair color, mass y skin color.
 
+## Herramientas utilizadas:
+
+- JavaScript
+- Api
+- Peticiones con fetch
+- Responsive
+
+
 ```
 Vista previa
 ```
