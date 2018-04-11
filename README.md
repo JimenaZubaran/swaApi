@@ -9,8 +9,11 @@ En este proyecto por medio de una petición fetch se accede a las 7 peliculas co
 - JavaScript
 - Api
 - Peticiones con fetch
-- Responsive
+- Responsive web desing
 
+### Proyecto desarrollado para: 
+
+Laboratoria
 
 ```
 Vista previa
@@ -23,6 +26,3 @@ Modal con información del personaje
 ```
 ![info](./assets/info.PNG)
 
-### Proyecto desarrollado para: 
-
-Laboratoria
