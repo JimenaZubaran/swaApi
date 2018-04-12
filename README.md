@@ -11,9 +11,7 @@ En este proyecto por medio de una petición fetch se accede a las 7 peliculas co
 - Peticiones con fetch
 - Responsive web desing
 
-### Proyecto desarrollado para: 
-
-Laboratoria
+### Desarrollado para [Laboratoria](http://laboratoria.la) 
 
 ```
 Vista previa
