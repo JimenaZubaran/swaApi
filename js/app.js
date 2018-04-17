@@ -52,7 +52,7 @@ function allFilms(data){
             <div class="col s12  m12 card-content white-text">
               <span class="center card-title"><h3>Título de la película:</h3>
               ${title}</span>
-              <img src="${films}" class= "col s10 m12">
+              <img src="${films}" class= "col s12 m12">
               <h3 class="center" ><strong>Número de episodio: </strong>
               ${episode}</h3>
               <ul class="center" id"characters"><h4>Conoce a los personajes haciendo click sobre los links: </h4>${listCharacters}</ul>
