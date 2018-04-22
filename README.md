@@ -16,7 +16,7 @@ En este proyecto por medio de una petición fetch se accede a las 7 peliculas co
 ```
 Vista previa
 ```
-![swapi](https://user-images.githubusercontent.com/32856416/38595114-6246ad00-3d0f-11e8-9991-943aa605513a.PNG)
+![vista-previa](https://user-images.githubusercontent.com/32856416/39098386-bdba6090-462f-11e8-98ef-d0ee03ba530e.PNG)
 
 
 ```
